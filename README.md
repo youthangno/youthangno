@@ -10,3 +10,7 @@
 <br><br>
 https://simpleicons.org/
 [![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크)
+
+
+![youthangno's github stats](https://github-readme-stats.vercel.app/api?username=youthangno&show_icons=true)
+[![youthangno's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youthangno&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/youthangno)
