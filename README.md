@@ -7,10 +7,26 @@
 [![react](https://img.shields.io/badge/React/ReactNative-black?style=flat-square&logo=React&logoColor=#61DAFB)]()
 [![Css](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3&logoColor=#1572B6)]()
 
-<br><br>
+<br>
 https://simpleicons.org/
+
+<br>
+
+![youthangno's github stats](https://github-readme-stats.vercel.app/api?username=youthangno&show_icons=true)
+
+
+
+
+<!--
+1. 로고 및 링크띄우기 사용법(사용중)
 [![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크)
 
 
-![youthangno's github stats](https://github-readme-stats.vercel.app/api?username=youthangno&show_icons=true)
+2. 커밋 스탯 사용법(사용중)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
+
+3. 커밋 및 푸시 중 사용한 테크스텍 퍼센테이지 표시.
 [![youthangno's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youthangno&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/youthangno)
+
+
+!-->
