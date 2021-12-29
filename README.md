@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=hoyoungSohn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=hoyoungSohn&fontSize=60)
 
 <br>
 
@@ -21,7 +21,7 @@
 
 
 2. 커밋 스탯 사용법(사용중)
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
+![youthangno's github stats](https://github-readme-stats.vercel.app/api?username=youthangno&show_icons=true)
 
 3. 커밋 및 푸시 중 사용한 테크스텍 퍼센테이지 표시.
 [![youthangno's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyoungSohn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/youthangno)
