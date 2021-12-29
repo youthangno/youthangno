@@ -10,7 +10,7 @@
 
 <br>
 
-![youthangno's github stats](https://github-readme-stats.vercel.app/api?username=hoyoungSohn&show_icons=true)
+![hoyoungSohn's github stats](https://github-readme-stats.vercel.app/api?username=hoyoungSohn&show_icons=true)
 
 
 <br><br><br><br><br><br>
@@ -24,7 +24,7 @@
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
 
 3. 커밋 및 푸시 중 사용한 테크스텍 퍼센테이지 표시.
-[![youthangno's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youthangno&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/youthangno)
+[![hoyoungSohn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyoungSohn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/youthangno)
 
 
 !-->
