@@ -7,7 +7,7 @@
 [![react](https://img.shields.io/badge/React/ReactNative-black?style=flat-square&logo=React&logoColor=#61DAFB)]()
 [![Css](https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3&logoColor=#1572B6)]()
 
-
+https://vivid-howler-477.notion.site/5f937f56f6144984a02af8378d567d57
 <br>
 
 
